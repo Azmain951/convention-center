@@ -1,18 +1,19 @@
+/* Google Font */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Poppins:wght@300;400;600;700&display=swap');
 
-
+/* Custom CSS */
 *{
     margin: 0;
     padding: 0;
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
 }
-
-
 main section{
     margin: 100px 0;
 }
 
+
+/* header section  */
 .carousel-item h1{
     font-weight: 600;
     font-size: 48px;
@@ -29,6 +30,7 @@ main section{
     font-weight: 300;
 }
 
+/* main section  */
 .card-body a{
     padding: 10px 60px;
     font-size: 15px;
@@ -53,10 +55,7 @@ main section{
     border-radius: 5px;
 }
 
-font{
-    font-family: 'Inter', sans-serif;
-}
-
+/* footer  */
 footer p{
     margin: 0;
     padding: 0;
